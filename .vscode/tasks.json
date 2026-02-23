@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Dev Server",
+			"type": "shell",
+			"command": "export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/mzubair/.bun/bin && cd /home/mzubair/Music/react-project/e-commerce-theme-change && bun run dev",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
